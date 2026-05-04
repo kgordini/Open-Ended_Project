@@ -35,6 +35,10 @@ The output from each design is written to a text file and an image is reconstruc
 
 ## Results
 
+|**Total Sequential Cycles** | **Total Parallel Cycles**  | **Total Sobel Cycles** |
+| -------------------------- | -------------------------- | ---------------------- |
+| 65,536 | 16,384 | 65,536 |
+
 - Parallel design has lower Fmax but higher throughput  
 - Sobel design performs edge detection
 - All designs use very low hardware resources  
